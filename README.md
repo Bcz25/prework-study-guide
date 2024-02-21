@@ -1,7 +1,7 @@
 # Prework Study Guide Webpage
 ## Description
 
-This study guide was created for stdudents srarting there programming journey. It has helfpul notes on different aspects of HTML, CSS, git, and JavaScript. 
+This study guide was created for stdudents srarting their programming journey. It has helfpul notes on different aspects of HTML, CSS, git, and JavaScript. 
 
 
 ## Installation
